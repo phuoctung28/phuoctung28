@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @phuoctung28
+- 👀 I’m interested in Mobile App and IOT.
+- 🌱 I’m currently learning C, Java, Swift and Python
+
+
+<!---
+phuoctung28/phuoctung28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
