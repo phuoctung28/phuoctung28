@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @phuoctung28
 - 👀 I’m interested in Mobile App and IOT.
-- 🌱 I’m currently learning C, Java, Swift and Python
 
 
 <!---
