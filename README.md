@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @phuoctung28
+- C, Java, JavaScript
 - 👀 I’m interested in Mobile App and IOT.
 
 
