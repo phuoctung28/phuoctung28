@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @phuoctung28
+Hello I’m Nguyen Phuoc Tung ![Uploading image.png…]()
+
+
 - C, Java, JavaScript
 - 👀 I’m interested in Mobile App and IOT.
 
