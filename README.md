@@ -1,6 +1,4 @@
-Hello I’m Nguyen Phuoc Tung ![Uploading image.png…]()
-
-
+- Hello I’m Nguyen Phuoc Tung !
 - C, Java, JavaScript
 - 👀 I’m interested in Mobile App and IOT.
 
