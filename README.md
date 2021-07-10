@@ -1,6 +1,6 @@
 - Hello I’m Nguyen Phuoc Tung !
 - C, Java, JavaScript
-- 👀 I’m interested in Mobile App and IOT.
+- I’m interested in Mobile App and IOT.
 
 
 <!---
