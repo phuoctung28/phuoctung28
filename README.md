@@ -6,13 +6,11 @@ I'm [Phuoc Tung](https://github.com/phuoctung28), I'm an undergraduated student 
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a CSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 🌱 I’m currently exploring Solidity cause I'm a fan of blockchain.
+- 🤔 My interests are IoT, blockchain and Design.
+- 💼 I’m pursuing a Bachelor's degree in Software Engineering.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+- 📫 Email me at [nguyenphuoctung.284@gmail.com](mailto:nguyenphuoctung.284@gmail.com).
 ---
 
 **Languages and Tools:**
