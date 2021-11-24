@@ -2,7 +2,17 @@
 <h1> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h1>
 
 I'm [Phuoc Tung](https://github.com/phuoctung28), I'm an undergraduated student from FPT University.
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+**About Me!**
+
+- 👨🏽‍💻 I’m currently working as a CSA at Nixxe Solutions.
+- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
+- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
 ---
 
 **Languages and Tools:**
