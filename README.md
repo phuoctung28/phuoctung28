@@ -2,7 +2,7 @@
 <h1> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h1>
 
 I'm [Phuoc Tung](https://github.com/phuoctung28), I'm an undergraduated student from FPT University.
- <img align="right" alt="GIF" src="https://giphy.com/embed/ACzsN9dhQuOZ6RYXcM" />
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/ACzsN9dhQuOZ6RYXcM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KeepCoding-code-coding-keepcoding-ACzsN9dhQuOZ6RYXcM">via GIPHY</a></p>
 
 **About Me!**
 
