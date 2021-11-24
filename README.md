@@ -2,7 +2,7 @@
 <h1> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h1>
 
 I'm [Phuoc Tung](https://github.com/phuoctung28), I'm an undergraduated student from FPT University.
-<img align="right" src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="400" height="350" />
+<img align="right" src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="400" height="400" />
 
 **About Me!**
 
