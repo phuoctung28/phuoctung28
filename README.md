@@ -39,7 +39,7 @@ I'm [Phuoc Tung](https://github.com/phuoctung28), I'm an undergraduated student 
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=phuoctung28&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=phuoctung28&hide=stars&show_icons=true&theme=dracula&line_height=28">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuoctung28&count_private=true&theme=dracula">
  
 
