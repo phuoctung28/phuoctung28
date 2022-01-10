@@ -18,7 +18,6 @@ I'm [Phuoc Tung](https://github.com/phuoctung28), I'm an undergraduated student 
 <p align="center">
 
   <div align="center">
-  
     <code><img height="40" src="https://miro.medium.com/max/1400/0*yqbRInqX0ZRUlVS0"></code> 
       <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> 
       <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
