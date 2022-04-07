@@ -10,7 +10,7 @@ I'm [Phuoc Tung](https://github.com/phuoctung28), I'm an undergraduated student 
 - 🤔 My interests are IoT, blockchain and Design.
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [nguyenphuoctung.284@gmail.com](mailto:nguyenphuoctung.284@gmail.com).
+- 📫 Email me at [phuoctung.work@gmail.com](mailto:phuoctung.work@gmail.com).
 ---
 
 **Languages and Tools:**
