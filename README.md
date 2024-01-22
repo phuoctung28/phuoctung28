@@ -2,9 +2,7 @@ I'm [Phuoc Tung](https://github.com/phuoctung28), I'm an undergraduated student 
 <img align="right" src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="400" height="400" />
 
 **About Me!**
-
-- 🌱 I’m currently exploring Solidity cause I'm a fan of blockchain.
-- 🤔 My interests are IoT, blockchain and Design.
+- 🤔 My interests are blockchain and Design.
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [phuoctung.work@gmail.com](mailto:phuoctung.work@gmail.com).
