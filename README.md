@@ -1,6 +1,3 @@
-I'm [Phuoc Tung](https://github.com/phuoctung28), I'm an undergraduated student from FPT University.
-<img align="right" src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="400" height="400" />
-
 **About Me!**
 - 🤔 My interests are blockchain and Design.
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering.
